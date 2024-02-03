@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Learning Html</title>
+  <style>
+ h1{
+  color: red
+ }
+
+  </style>
+</head>
+<body>
+  <h1>open with livew server</h1>
+  <button>click me</button>
+  <button>push me</button>
+  <div>
+ <p>Learn how to write a good paragraph with this guide from Vedantu. It covers the structure, purpose, and tips of paragraph writing for different types of literature.</p>
+</div>
+ <a href="https://www.knowledgegate.in" target="-blank">GO TO KG</a>
+  <script>
+    alert('ok')
+  </script>
+</body>
+</html>
